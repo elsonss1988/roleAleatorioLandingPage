@@ -3,7 +3,7 @@
 <p align="center"> Role e caminhadas pela a cidade com um incrivel contraste e rica de oportunidades de passeios, sejam bem vindo ao projeto role aleatorio </p>
 
 <p align="center">
-    <a href="#-Tecnologias">
+    <a href="#tech-Tecnologias">
     Tecnologias
     </a>
     &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;
@@ -16,7 +16,6 @@
     </a>
     &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;
     <a href="#memo-Licença">Licença</a>
-    </a>
      &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;
 </p>
 <p align="center">
@@ -33,7 +32,7 @@
 
 <br>
 
-## Tecnologias
+## :tech: Tecnologias
 
 - HTML e CSS
 - JavaScript
