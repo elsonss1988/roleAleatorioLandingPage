@@ -3,7 +3,7 @@
 <p align="center"> Role e caminhadas pela a cidade com um incrivel contraste e rica de oportunidades de passeios, sejam bem vindo ao projeto role aleatorio </p>
 
 <p align="center">
-    <a href="##memo-Tecnologias">
+    <a href="#memo-Tecnologias">
     Tecnologias
     </a>
     &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;
@@ -42,7 +42,7 @@
 
 Projeto com algumas sugetoes de Roteiro pela a cidade de Sao Paulo
 
-## : : Layout
+## : Layout
 
 ## :memo: Licença
 
