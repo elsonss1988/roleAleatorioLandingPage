@@ -3,19 +3,19 @@
 <p align="center"> Role e caminhadas pela a cidade com um incrivel contraste e rica de oportunidades de passeios, sejam bem vindo ao projeto role aleatorio </p>
 
 <p align="center">
-    <a href="#-tecnologias">
+    <a href="#-Tecnologias">
     Tecnologias
     </a>
     &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;
-    <a href="#-projeto">
+    <a href="#-Projeto">
     Projeto
     </a>
     &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;
-    <a href="#-layout">
+    <a href="#-Layout">
     Layout
     </a>
     &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;
-    <a href="#memo-licenca">Licença</a>
+    <a href="#memo-Licença">Licença</a>
     </a>
      &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;
 </p>
