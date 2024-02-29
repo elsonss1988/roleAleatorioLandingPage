@@ -3,7 +3,7 @@
 <p align="center"> Role e caminhadas pela a cidade com um incrivel contraste e rica de oportunidades de passeios, sejam bem vindo ao projeto role aleatorio </p>
 
 <p align="center">
-    <a href="#tech-Tecnologias">
+    <a href="#-Tecnologias">
     Tecnologias
     </a>
     &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;
@@ -32,17 +32,17 @@
 
 <br>
 
-## : Tecnologias
+## :memo: Tecnologias
 
 - HTML e CSS
 - JavaScript
 - Git e GitHuhub
 
-## : Projeto
+## :memo: Projeto
 
 Projeto com algumas sugetoes de Roteiro pela a cidade de Sao Paulo
 
-## : Layout
+## :memo: Layout
 
 ## :memo: Licença
 
