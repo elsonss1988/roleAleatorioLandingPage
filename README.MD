@@ -35,8 +35,6 @@
 
 ## Tecnologias
 
-## Tecnologias.
-
 - HTML e CSS
 - JavaScript
 - Git e GitHuhub
