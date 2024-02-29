@@ -11,7 +11,7 @@
     Projeto
     </a>
     &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;
-    <a href="#-Layout">
+    <a href="#Layout">
     Layout
     </a>
     &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;
@@ -42,7 +42,7 @@
 
 Projeto com algumas sugetoes de Roteiro pela a cidade de Sao Paulo
 
-## : Layout
+## Layout
 
 ## :memo: Licença
 
