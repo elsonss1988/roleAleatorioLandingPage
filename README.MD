@@ -32,17 +32,17 @@
 
 <br>
 
-## :tech: Tecnologias
+## : Tecnologias
 
 - HTML e CSS
 - JavaScript
 - Git e GitHuhub
 
-## Projeto
+## : Projeto
 
 Projeto com algumas sugetoes de Roteiro pela a cidade de Sao Paulo
 
-## Layout
+## : Layout
 
 ## :memo: Licença
 
