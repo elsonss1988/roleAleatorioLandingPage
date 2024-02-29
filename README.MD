@@ -7,11 +7,11 @@
     Tecnologias
     </a>
     &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;
-    <a href="#memo-Projeto">
+    <a href="#-Projeto">
     Projeto
     </a>
     &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;
-    <a href="#memo-Layout">
+    <a href="#-Layout">
     Layout
     </a>
     &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;
@@ -38,11 +38,11 @@
 - JavaScript
 - Git e GitHuhub
 
-## :memo: Projeto
+## : Projeto
 
 Projeto com algumas sugetoes de Roteiro pela a cidade de Sao Paulo
 
-## :memo: Layout
+## : : Layout
 
 ## :memo: Licença
 
