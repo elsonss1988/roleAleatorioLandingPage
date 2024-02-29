@@ -3,18 +3,15 @@
 <p align="center"> Role e caminhadas pela a cidade com um incrivel contraste e rica de oportunidades de passeios, sejam bem vindo ao projeto role aleatorio </p>
 
 <p align="center">
-    <a href="#memo-Tecnologias">
+    <a href="#Tecnologias">
     Tecnologias
-    </a>
-    &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;
-    <a href="#memo-Projeto">
+    </a>&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;
+    <a href="Projeto">
     Projeto
-    </a>
-    &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;
-    <a href="#memo-Layout">
+    </a>&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;
+    <a href="Layout">
     Layout
-    </a>
-    &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;
+    </a>&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;
     <a href="#memo-Licença">Licença</a>
      &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;
 </p>
@@ -32,7 +29,7 @@
 
 <br>
 
-## :memo: Tecnologias
+## <p id=> Tecnologias
 
 - HTML e CSS
 - JavaScript
