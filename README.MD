@@ -8,11 +8,11 @@
     </a>
     &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;
     <a href="#-projeto">
-    Tecnologias
+    Projeto
     </a>
     &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;
     <a href="#-layout">
-    Tecnologias
+    Layout
     </a>
     &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;
     <a href="#memo-licenca">Licença</a>
@@ -25,13 +25,15 @@
 
 <br>
 
-<p>
-    <img alt="Tela Modo Light" src=".github/screen-light.png" width="40%">
+<p align="center">
+    <img align="left" alt="Tela Modo Light" src=".github/screen-light.png" width="40%">
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="Tela Modo Dark" src=".github/screen-dark.png" width="40%">
+    <img align="right " alt="Tela Modo Dark" src=".github/screen-dark.png" width="40%">
 <p>
 
 <br>
+
+## Tecnologias
 
 ## Tecnologias
 
