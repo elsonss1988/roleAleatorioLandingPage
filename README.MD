@@ -35,7 +35,7 @@
 
 ## Tecnologias
 
-## Tecnologias
+## Tecnologias.
 
 - HTML e CSS
 - JavaScript
