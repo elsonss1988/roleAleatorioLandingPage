@@ -21,7 +21,7 @@
   --stroke-color: rgba(0, 0, 0, 0.5);
   --surface-color: rgba(0, 0, 0, 0.05);
   --surface-color-hover: rgba(0, 0, 0, 0.02);
-  --highlight-color: rgba(0, 0, 0, 0.1);
+  --highlight-color: rgba(187, 21, 21, 0.1);
   --background-header: rgb(221, 242, 244);
   --switch-bg-url: url("./assets/sun.svg");
 }
@@ -31,6 +31,7 @@ body {
   background-repeat: no-repeat;
   background-position: top center;
   background-size: cover;
+  height: 100vh;
 }
 body * {
   font-family: inter, sans-serif;
@@ -85,14 +86,19 @@ body * {
   left: 0;
   top: 50%;
   transform: translateY(-50%);
-
+  animation: slide-out 0.4s forwards;
   background: white var(--switch-bg-url) no-repeat center center;
 }
 
 .light #switch button {
-  right: 0;
-  left: initial;
+  /* right: 0;
+  left: initial; */
+  animation: slide-in 0.4s forwards;
   background: white var(--switch-bg-url) no-repeat center center;
+}
+
+#switch button:hover {
+  outline: 8px solid var(--highlight-color);
 }
 
 #switch span {
@@ -175,4 +181,32 @@ footer {
   padding: 24px 0px;
   text-align: center;
   font-size: 14px;
+}
+
+@media (min-width: 700px) {
+  :root {
+    --bg-url: url(./assets/bg-desktop.jpg);
+  }
+
+  .light {
+    --bg-url: url(./assets/bg-desktop-light.jpg);
+  }
+}
+
+@keyframes slide-in {
+  from {
+    left: 0;
+  }
+  to {
+    left: 50%;
+  }
+}
+
+@keyframes slide-out {
+  from {
+    left: 50%;
+  }
+  to {
+    left: 0;
+  }
 }
